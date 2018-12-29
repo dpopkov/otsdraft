@@ -1,1 +1,4 @@
 # otsdraft
+
+study and research
+
