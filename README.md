@@ -1,4 +1,3 @@
 # otsdraft
 
-study and research
-
+Задания курса "Разработчик Java"
